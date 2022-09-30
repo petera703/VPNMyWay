@@ -10,7 +10,7 @@ It's unlikely I'll have time to update VPNMyWay any more. Additionally as of Oct
 
 # Windows 11+
 
-VPNMyWay works with Windows versions up to Windows 10. Myself I have no plans yet to use Windows 11 for anything until we know more about what it breaks. If you want to use VPNMyWay with Windows 11, I am not able to help with that but I guess you should be able to do it.
+VPNMyWay works with Windows versions up to Windows 10. Myself I have no plans yet to use Windows 11 for anything until we know more about what it breaks. If you want to make VPNMyWay work with Windows 11, I am not able to help with that but I guess you should be able to do it.
 
 # Notes on DotRas
 
